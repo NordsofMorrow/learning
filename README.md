@@ -680,7 +680,7 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 </details>
 
 <details>
-<summary><h2>Specialize in Machine Learning</h4></summary>
+<summary>Specialize in Machine Learning</summary>
 
 ### Have basic business understanding
 - [ ] [Book: Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220)
@@ -2097,6 +2097,7 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 - [ ] [Youtube: SE4AI: Explainability and Interpretability (Part 1)](https://www.youtube.com/watch?v=uz2t2IROZRM) `1:17:45`
 - [ ] [Youtube: SE4AI: Explainability and Interpretability (Part 2)](https://www.youtube.com/watch?v=3xm5rMM_rCY) `1:21:50`
 
+
 ### Be able to optimize models for inference
 - [ ] [Article: A Survey of Methods for Model Compression in NLP](https://www.pragmatic.ml/a-survey-of-methods-for-model-compression-in-nlp/)
 - [ ] [Article: Why you should convert your NLP pipelines to ONNX](https://towardsdatascience.com/why-you-should-convert-your-nlp-pipelines-to-onnx-2c4a3433325f)
@@ -2115,8 +2116,6 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 - [ ] [Article: New layout options for Streamlit](https://blog.streamlit.io/introducing-new-layout-options-for-streamlit/)
 
 
-
-
 ### Be able to perform A/B testing
 - [ ] [Article: Multi-Armed Bandit (MAB) – A/B Testing Sans Regret](https://vwo.com/blog/multi-armed-bandit-algorithm/)
 - [ ] [Article: When to Run Bandit Tests Instead of A/B/n Tests](https://cxl.com/blog/bandit-tests/)
@@ -2125,8 +2124,6 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 - [ ] [Udacity: A/B Testing](https://www.udacity.com/course/ab-testing--ud257)
 - [ ] [Udacity: A/B Testing for Business Analysts](https://www.udacity.com/course/ab-testing--ud979)
 - [ ] [Youtube: Hypothesis testing with Applications in Data Science](https://www.youtube.com/watch?v=kx-pcQAPvoc) `0:10:33`
-
-
 
 
 ### Be able to apply proper software engineering process
